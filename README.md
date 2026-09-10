@@ -57,10 +57,10 @@ If a project is finished and I can look back and say *"I wouldn't have known how
 
 ## Projects
 
-| Year | Project | Description | Stack | Status  | Repo |
-| ---- | ------- | ----------- | ----- | ------- | ---- |
-| 2026 | —       | —           | —     | Planned | —    |
-| 2026 | —       | —           | —     | Planned | —    |
+| Year | Project | Description | Stack | Status | Repo |
+| ---- | ------- | ----------- | ----- | ------ | ---- |
+| 2026 | jLog | A workplace time and attendance system: employees clock in and out with a badge, and the system records and reports on their working time. | Java 21 · Spring Boot · Maven | Planned — target Jan 2027 | — |
+| 2026 | — | — | — | Planned | — |
 
 *I'll update this table as projects are started and completed.*
 
