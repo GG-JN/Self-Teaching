@@ -6,7 +6,7 @@ A collection of projects I'm building to become a better software engineer.
 
 I'm Jack (Giacomo Giuntoli), a full stack developer working in fintech and based in Tuscany, Italy. I have a bachelor's degree in Computer Science from the University of Pisa.
 
-Outside of work, I like exploring AI, cybersecurity, and quantitative finance.
+Outside of work, I like exploring AI, finance and cybersec.
 
 ## Current stack
 
@@ -16,7 +16,7 @@ The technologies I work with today:
 * **Backend:** Spring Boot
 * **Frontend:** HTML, CSS, JavaScript, React Native
 * **AI:** mostly applied agentic AI, learned through hands-on work rather than building the underlying systems
-* **DevOps:** basics
+* **DevOps:** Git and docker knowledge, CI/CD.
 
 ## What I want to learn
 
@@ -59,8 +59,8 @@ If a project is finished and I can look back and say *"I wouldn't have known how
 
 | Year | Project | Description | Stack | Status | Repo |
 | ---- | ------- | ----------- | ----- | ------ | ---- |
-| 2026 | jLog | A workplace time and attendance system: employees clock in and out with a badge, and the system records and reports on their working time. | Java 21 · Spring Boot · Maven | Planned — target Jan 2027 | — |
-| 2026 | — | — | — | Planned | — |
+| 2026 | jLog | A workplace time and attendance system: employees clock in and out with a badge, and the system records and reports on their working time. | Java 21 · Spring Boot · Maven | Started — target Jan 2027 | — |
+| 2026 | A.I. - Secret Copilot-like Project | A copilot-like AI Model| Python & Co | Starts 10/10/2026 | First Version Early 2027 |
 
 *I'll update this table as projects are started and completed.*
 
